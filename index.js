@@ -4,6 +4,8 @@ const Cart = require("./classes/Cart.js");
 const Customer = require("./classes/Customer.js");
 const Auth = require("./classes/Auth.js");
 
+//Can't get stretch task 3 to work! try again tomorrow.
+
 // DO NOT EDIT BELOW THIS LINE
 try {
   module.exports = {

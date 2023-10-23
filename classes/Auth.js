@@ -23,7 +23,7 @@ auth.register("Kaiya", "Kaiya@example.com", "121 Main St");
 auth.register("Nina", "Nina@example.com", "22 Broadway St");
 
 // console.log(auth.customers[0]);
-// console.log(auth.customers[0].email);
-console.log(auth.login("Kaiya@example.com"));
+// // console.log(auth.customers[0].email);
+// console.log(auth.login("Kaiya@example.com"));
 
 module.exports = Auth;
